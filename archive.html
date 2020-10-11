@@ -12,8 +12,8 @@ This is the list of all my writing.
     {% for post in site.posts %}
     {% unless post.category %}
     <li>
-        <span class="post-date"> {{post.date | date: "%b %-d, %Y"}} </span>
-        <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <!-- <span class="post-date"> {{post.date | date: "%b %-d, %Y"}} </span>
+        <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> -->
     </li>
     {% endunless %}
     {% endfor %}

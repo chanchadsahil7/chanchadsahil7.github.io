@@ -1,13 +1,13 @@
-title: Sasank's Blog
+title: Sahil's Blog
 description: >
-  Code. Books. Languages.
+  Code. Travel. Random Writings
 url: "/"
 paginate:	5 # The number of posts to show per page on your homepage
-name: "Sasank Chilamkurthy"
-email: 'sasankchilamkurthy@gmail.com'
+name: "Sahil Chanchad"
+email: 'chanchadsahil7@gmail.com'
 markdown: kramdown
-twitter_username: sasank51
-twitter_image: assets/favicon/sasank51.jpg
+# twitter_username:
+# twitter_image:
 permalink: none
 kramdown:
   parse_block_html: true
@@ -18,5 +18,5 @@ gems:
   - jekyll-sass-converter
   - jekyll-textile-converter
 long_description: >
-  I write about artificial intelligence (AI), technology, books, languages and some time random stuff.
-real_url: https://chsasank.github.io
+  I write about Travel, Technology, Poems and some time random stuff.
+real_url: https://chanchadsahil7.github.io
