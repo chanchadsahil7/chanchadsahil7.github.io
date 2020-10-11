@@ -26,5 +26,5 @@ I prefer TV series over Movies.
 
 
 * Github: [github.com/chanchadsahil7](https://github.com/chanchadsahil7)
-* Linkedin: [linkedin.com/in/sahil-chanchad-818295131/](linkedin.com/in/sahil-chanchad-818295131/)
+* Linkedin: [https://www.linkedin.com/in/sahil-chanchad-818295131/](https://www.linkedin.com/in/sahil-chanchad-818295131/)
 * Email: [chanchadsahil7@gmail.com](mailto:chanchadsahil7@gmail.com)
