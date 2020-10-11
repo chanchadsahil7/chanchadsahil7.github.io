@@ -11,7 +11,7 @@ order: 0
   <div class='container'>
     {% for post in paginator.posts %}
       <article class='post-container' itemscope itemtype="http://schema.org/BlogPosting" role="article">
-        <!-- <header>
+        <header>
           <h2 itemprop="name">
             <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
               {{ post.title }}
@@ -33,7 +33,7 @@ order: 0
               {{ post.content | strip_html | strip_newlines | truncate: 250 }}
           {% endif %}
           </a>
-        </p> -->
+        </p>
       </article>
     {% endfor %}
   </div>
