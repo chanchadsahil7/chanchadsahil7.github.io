@@ -58,14 +58,15 @@ I am literally out of words when I am writing this and I feel.
 > The whole point of taking photographs is so that you don't have to explain memoried with words.
 > Atlast photographs are all you are left with.
 
- <div class="iframe-container">
-  <iframe src="https://www.youtube.com/embed/7l_pEeTZzts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 <span class="marginnote">
    The journey from land -> water -> land.
 </span>
 <img src='/assets/images/travel/andaman/island-sea.jpg'>
+
+<div class="iframe-container">
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/7l_pEeTZzts" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0">
+  </iframe>
+</div>
 
 It was around 7 pm we reached to the Havelock Island and it was almost sunset time and without having the rush of where we will spend the night and how will be our stay etc. We just sat at the shore and enjoyed the peace and the infinity loking beach sunset and and I just let myself dwell in the beautifull feeling of calmness and nature that I was feeling inside me and was just allowing my self to let it sink.
 
