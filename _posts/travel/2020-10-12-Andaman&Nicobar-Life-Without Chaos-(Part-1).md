@@ -49,7 +49,7 @@ I used to only Imagine being on a ship and standing at the tip of the ship and f
 </span>
 <img src='/assets/images/travel/andaman/wandoor.jpg'>
 
-<img src='/assets/images/travel/andaman/wandoor-inside.jpg'>
+<img src='/assets/images/travel/andaman/wandoorinside.jpg'>
 
 Attaching the videos of majestic views while we were travelling to the Havelock Islands. I Literally felt that we were in some kind of a glitch because 360 Degrees there was no land, just water and the kind of shape that water waves were shaping into were so constant and it made me feel that I am in some kind of a glicth in the matrix.
 
@@ -58,14 +58,13 @@ I am literally out of words when I am writing this and I feel.
 > The whole point of taking photographs is so that you don't have to explain memoried with words.
 > Atlast photographs are all you are left with.
 
+ <div class="iframe-container">
+  <iframe src="https://www.youtube.com/embed/7l_pEeTZzts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <span class="marginnote">
    The journey from land -> water -> land.
 </span>
-
- <div class="iframe-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/7l_pEeTZzts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 <img src='/assets/images/travel/andaman/island-sea.jpg'>
 
 It was around 7 pm we reached to the Havelock Island and it was almost sunset time and without having the rush of where we will spend the night and how will be our stay etc. We just sat at the shore and enjoyed the peace and the infinity loking beach sunset and and I just let myself dwell in the beautifull feeling of calmness and nature that I was feeling inside me and was just allowing my self to let it sink.
