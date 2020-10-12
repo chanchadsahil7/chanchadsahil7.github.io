@@ -25,13 +25,13 @@ This is the very first beginning of my daily blogs and vlogs. I am very excited 
 
 ### General Thought
 
-I have been thinking about creating content for myself and journaling it daily since a long time. It gives me pleasure. I like creating fun videos with friends and family. I like to sing with people. Although I dont know professtional dancing but surely have energy more than professional dancers. I do candid photography a lot of the times (you checkout my [Instagram](https://www.instagram.com/chanchad_/?hl=en)) and there are many more things that I like to do. But there is one common thing in all of this is to either take pictures or take videos.
+I have been thinking about creating content for myself and journaling it daily since a long time. It gives me pleasure. I like creating fun videos with friends and family. I like to sing with people. Although I don't know professional dancing but surely have energy more than professional dancers. I do candid photography a lot of the times (you checkout my [Instagram](https://www.instagram.com/chanchad_/?hl=en)) and there are many more things that I like to do. But there is one common thing in all of this is to either take pictures or take videos.
 
 So I thought of it and with this aim in life about creating content in whichever format possible I am going to do it.
 
 I believe in below philosophy :
 
-> The whole point of taking photographs and videos is so that you don’t have to explain memories with words. Atlast photographs and videos are all you are left with.
+> The whole point of taking photographs and videos is so that you don’t have to explain memories with words. At last photographs and videos are all you are left with.
 
 ## Journal Entry - 001
 
@@ -40,7 +40,10 @@ I am Writing this today from my hometown Surat. I am staying with my family from
 I started my day at 9:00 am today. Was feeling a bit lazy to get up due to cold weather in Surat.
 
 I usually like to start off my day with drinking hot water with 2 lemons mixed. And then I have a cup of tea to give boost to my mind and body and then I get going for the day. I enjoyed today's tea.
-My Mom prepares tea for me with something special. I find it hard to make the same tea with the same taste even though she is standing beside me and helping me (Maybe she is hiding something :p).
+My Mom makes tea for me with something special. I find it hard to make the same tea with the same taste even though she is standing beside me and helping me (Maybe she is hiding something :p).
+
+My Mom be like: 
+<div class="tenor-gif-embed" data-postid="14547617" data-share-method="host" data-width="100%" data-aspect-ratio="1.8444444444444446"><a href="https://tenor.com/view/amy-poehler-thug-thug-life-hoodie-yep-gif-14547617">Amy Poehler Thug GIF</a> from <a href="https://tenor.com/search/amypoehler-gifs">Amypoehler GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 Now I feel fresh and energetic so I started working around 10 am. I check all my personal and work related mails. That helps me to design and prioritize my work through out the day. I had a very crucial meeting with Astra Zeneca which I was tensed about. The meeting went well and we had clear understanding on clients requirements from a technical stand point. All meetings and Internal discussion got done for the day at least the one I am aware of.
 
@@ -62,14 +65,3 @@ And just to add to the pain of no internet, electricity at my place also had to 
 And in the end it doesn't even matter. Life is all about experiences during the journey.
 
 > See you tomorrow!!
-
-
-
-
-
-
-
-
-
-
-
