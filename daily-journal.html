@@ -1,0 +1,22 @@
+---
+layout: page
+title: Tech Journal
+order: 2
+permalink: /tech/
+description: This is the list of all my tech blogs
+---
+
+This is the list of all my writing.
+
+ul>
+    <!-- <li>Coming Soon!</li> -->
+    {% for post in site.posts %}
+    {% if post.category == 'journal' %}
+    <li>
+        <span class="post-date"> {{post.published | date: "%Y"}}, </span>
+        <span class="post-author"> {{post.author | trim}}, </span>
+        <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
