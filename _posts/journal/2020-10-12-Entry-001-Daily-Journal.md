@@ -54,7 +54,16 @@ let's get back to work. While working I was listening to some [Music](https://ww
 ### Again Some random stuff 
 Washed my dishes after Washed my dishes after having lunch cause Modiji told *Atma Nirbhar Bharat*. Then at around 2pm water is purified at my place for storing drinking water because SMC says *Mah City.. Mah Rules* hehe. zyada ho gaya I know. I like helping my mother with small work. I help her collect clothes from terrace and sometimes help her in mopping also.
 
-Went back to work and realized that my data pack is exhausted and also from morning wifi wasn't working. So i have now no other solution but to wait for the internet to come back. So I spent time on writing my first ever [travel blog]()
+Went back to work and realized that my data pack is exhausted and also from morning wifi wasn't working. So i have now no other solution but to wait for the internet to come back. So I spent time on writing my first ever [Andaman Travel Blog](https://chanchadsahil7.github.io/travel/Andaman-Nicobar-Life-Without-Chaos-Part-1.html).
+Give it a read if you are interested.
+
+And just to add to the pain of no internet, electricity at my place also had to go. Anyway *nothing can stop me I am all the way up*. Sat by my balcony watching kids play and one aunty cleaning the society took a timelapse of that.
+
+And in the end it doesn't even matter. Life is all about experiences during the journey.
+
+> See you tomorrow!!
+
+
 
 
 
