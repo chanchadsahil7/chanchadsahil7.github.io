@@ -42,9 +42,6 @@ I started my day at 9:00 am today. Was feeling a bit lazy to get up due to cold 
 I usually like to start off my day with drinking hot water with 2 lemons mixed. And then I have a cup of tea to give boost to my mind and body and then I get going for the day. I enjoyed today's tea.
 My Mom makes tea for me with something special. I find it hard to make the same tea with the same taste even though she is standing beside me and helping me (Maybe she is hiding something :p).
 
-My Mom be like: 
-<div class="tenor-gif-embed" data-postid="14547617" data-share-method="host" data-width="100%" data-aspect-ratio="1.8444444444444446"><a href="https://tenor.com/view/amy-poehler-thug-thug-life-hoodie-yep-gif-14547617">Amy Poehler Thug GIF</a> from <a href="https://tenor.com/search/amypoehler-gifs">Amypoehler GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 Now I feel fresh and energetic so I started working around 10 am. I check all my personal and work related mails. That helps me to design and prioritize my work through out the day. I had a very crucial meeting with Astra Zeneca which I was tensed about. The meeting went well and we had clear understanding on clients requirements from a technical stand point. All meetings and Internal discussion got done for the day at least the one I am aware of.
 
 ### Some random stuff 
