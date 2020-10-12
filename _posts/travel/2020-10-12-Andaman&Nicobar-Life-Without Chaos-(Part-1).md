@@ -2,7 +2,8 @@
 layout: post
 title: "Andaman & Nicobar - Life Without Chaos (Part 1)"
 author: Sahil Chachad
-# twitter_image: https://chsasank.github.io/assets/images/writing/vikash.jpg
+published: 2020-10-12
+category: travel
 ---
 ## The need
 Today I am going to take you all to a journey with me where we will try discover what life is and what really matters. Also, I'll walk you thorugh my journey on how I overcame my fear of water.
@@ -58,15 +59,12 @@ I am literally out of words when I am writing this and I feel.
 > Atlast photographs are all you are left with.
 
 <span class="marginnote">
-   - The journey from land -> water -> land.
+   The journey from land -> water -> land.
 </span>
 
  <div class="iframe-container">
-  <iframe class="responsive-iframe" src="https://youtu.be/7l_pEeTZzts" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0">
-  </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7l_pEeTZzts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-<img src='/assets/images/travel/andaman/wandoor-outside.jpg'>
 
 <img src='/assets/images/travel/andaman/island-sea.jpg'>
 
@@ -74,7 +72,7 @@ It was around 7 pm we reached to the Havelock Island and it was almost sunset ti
 
 <img src='/assets/images/travel/andaman/sunset.jpg'>
 
-> That brings us to the end of the part 1 of this journey. Part 2 Coming Soon! -->
+> That brings us to the end of the part 1 of this journey. Part 2 Coming Soon!
 
 <!-- The covid-19 situation has given all of us a hard time - both for our physical and mental health. We have been forced to lose a part of our identities. I used to be an avid hiker - especially in the monsoon. This season, I could go only for one trek<span class="margin-toggle sidenote-number"></span><span class="sidenote">Here in India, we call hiking *trekking*</span>. It was a short and beautiful hike near Mumbai.
 
