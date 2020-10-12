@@ -55,7 +55,7 @@ Attaching the videos of majestic views while we were travelling to the Havelock 
 
 I am literally out of words when I am writing this and I feel.
 
-> The whole point of taking photographs is so that you don't have to explain memoried with words.
+> The whole point of taking photographs is so that you don't have to explain memories with words.
 > Atlast photographs are all you are left with.
 
 <span class="marginnote">
