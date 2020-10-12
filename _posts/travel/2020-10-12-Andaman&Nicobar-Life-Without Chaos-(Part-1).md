@@ -12,7 +12,7 @@ This is the story of 2 friends Jons and Sahil (Myself), both of them are into th
 
 I distincly remember Jons sitiing opposite to me and wondering something and looking at the view outside the glass pannels of the office (we had a nice beach view office in Vizag). It was 26 Febuary 2019 and we were in office working on a feature as usual and felt the urge of travelling somewhere and randomly I asked Jons on what are his thoughts on travelling to the Andaman's and then one thing led to another. While we were discussing, I randomly opened ixigo.com and started checking flights from Vizag -> Port Blair.
 
-## The Randomeness
+## The Randomness
 You might have heard the saying *“Kehte hain agar kisi cheez ko dil se chaho … to poori kainath use tumse milane ki koshish mein lag jaati hai”* and guess what we both really wanted to go  and the flight tickets were available at Rs. 2500 (One way). Can you imagine that? Average ticket to Andman from anywhere in india is 6k to 10k One way. And that's when I realised that we should definelty visit the Andamans.
 
 And that is where it all started we boarded the flight on 28 Feb 2020.
