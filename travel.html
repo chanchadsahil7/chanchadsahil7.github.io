@@ -9,8 +9,8 @@ description: I maintain all my experience related to travel here.
 <p>I maintain all my experience related to travel here.</p>
 
 <ul>
-    <li>Coming Soon!</li>
-    <!-- {% for post in site.posts %}
+    <!-- <li>Coming Soon!</li> -->
+    {% for post in site.posts %}
     {% if post.category == 'travel' %}
     <li>
         <span class="post-date"> {{post.published | date: "%Y"}}, </span>
@@ -18,5 +18,5 @@ description: I maintain all my experience related to travel here.
         <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endif %}
-    {% endfor %} -->
+    {% endfor %}
 </ul>
