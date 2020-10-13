@@ -35,6 +35,11 @@ I believe in below philosophy :
 
 ## Journal Entry - 001
 
+<div class="iframe-container">
+  <iframe class="responsive-iframe" src="https://youtu.be/ny0ov_1bHR8" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0">
+  </iframe>
+</div>
+
 ## First half of the day.
 I am Writing this today from my hometown Surat. I am staying with my family from past few months Covid-19 situation.
 I started my day at 9:00 am today. Was feeling a bit lazy to get up due to cold weather in Surat.
