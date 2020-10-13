@@ -32,7 +32,7 @@ I was lucky to have the window seat. The view from the airplane was amazing and 
 </span>
 <img src='/assets/images/travel/andaman/flight-view.jpg'>
 
-The excitement inside me was at the top since it was my first trip to a place that is not sharing the borders (literal) with India. We landed around 11am 28 Feb 2020 and right after the landing. We rushed towards the Phoenix Bay Jetty where you board the government ferry to other Islands in the Andamans. We were supposed to book government ferry tickets 6 days in advance. In order to get the tickets to be able travel to 2 Islands that we had planned we were 5 days late. Funny right? But we just went to the ticket counter and got ourself tickets to the ferry without any hassle (Maybe some external energy was with us in this trip).
+The excitement inside me was at the top since it was my first trip to a place that is not sharing the borders with rest of the India. We landed around 11am 28 Feb 2020 and right after the landing. We rushed towards the Phoenix Bay Jetty where you board the government ferry to other Islands in the Andamans. We were supposed to book government ferry tickets 6 days in advance. In order to get the tickets to be able travel to 2 Islands that we had planned we were 5 days late. Funny right? But we just went to the ticket counter and got ourself tickets to the ferry without any hassle (Maybe some external energy was with us in this trip).
 
 Our ferry was at around 2:00 pm. Tt was only around 12 pm so went on a walk to near by places exploring to eat some sea food and trying to just not sit at one place and wait till the ferry leaves for the Havelock Island (Yes, Our first Island that we were hoping to).
 
