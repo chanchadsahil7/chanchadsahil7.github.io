@@ -35,6 +35,8 @@ I believe in below philosophy :
 
 ## Journal Entry - 001
 
+My first ever Youtube Vlog.
+
 <div class="iframe-container">
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/ny0ov_1bHR8" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0">
   </iframe>
