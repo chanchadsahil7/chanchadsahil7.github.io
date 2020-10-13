@@ -36,7 +36,7 @@ I believe in below philosophy :
 ## Journal Entry - 001
 
 <div class="iframe-container">
-  <iframe class="responsive-iframe" src="https://youtu.be/ny0ov_1bHR8" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0">
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/ny0ov_1bHR8" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0">
   </iframe>
 </div>
 
