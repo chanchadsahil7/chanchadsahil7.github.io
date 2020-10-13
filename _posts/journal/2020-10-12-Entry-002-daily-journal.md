@@ -35,7 +35,7 @@ I had my lunch and started working again.
 <span  class="marginnote">
 Puri...
 </span>
-<img  src='/assets/images/travel/journal/Puri.jpg'>
+<img  src='/assets/images/journal/Puri.jpg'>
 
 I took a break at 4 pm. I went outside to switch my mother's Idea sim to Jio. We were having a lot of problems with the Idea. But that didn't happen because the store was closed today *Weird*. So while coming back to me and my brother we both did some groceries shopping and came back home.
 
@@ -47,7 +47,7 @@ At the end of the day, I feel very happy!
 <span  class="marginnote">
 Sabzi Mandi.
 </span>
-<img  src='/assets/images/travel/journal/sabzi-mandi.jpg'>
+<img  src='/assets/images/journal/sabzi-mandi.jpg'>
 
 ## The Future
 
