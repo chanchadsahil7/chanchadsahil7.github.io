@@ -2,7 +2,7 @@
 layout: post
 title: "Entry 002 - Daily Journal"
 author: Sahil Chachad
-published: 2020-10-12
+published: 2020-10-13
 category: journal
 ---
 
