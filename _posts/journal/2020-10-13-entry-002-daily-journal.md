@@ -6,7 +6,7 @@ published: 2020-10-13
 category: journal
 ---
 
-Hey, Greetings for the day y'all today is 13 OCT 2020 Tuesday. 
+Hey, Greetings for the day y'all today is 13 Oct 2020 Tuesday. 
 
 ## The Past
 
