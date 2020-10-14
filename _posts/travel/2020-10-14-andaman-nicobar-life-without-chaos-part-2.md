@@ -15,13 +15,15 @@ category: travel
 Welcome to part 2 of the blog series:  Andaman & Nicobar - Life Without Chaos.
 
 # Havelock Island
-
-> "We all try to chase the sun inside us and keep it alive every day. So sell the sunset. To write a better sunrise" 
+<span  class="marginnote">
+Meaning : We all like sunset but to enjoy after
+</span>
+> “There's a sunrise and a sunset every single day, and they're absolutely free. Don't miss so many of them.”
 
 ## Dusk till Dawn
 
 And with this motivation, we moved towards the village. In search of the accommodation, we were knocking every door that came in between.
-Finally, we found a place to crash for the night. It was time to sleep and take some rest. I woke up at night, was not able to sleep so went to the beach. We were lucky to stay at a place where the beach was just 2 mins walk. I found something called *[bioluminescence](https://en.wikipedia.org/wiki/Bioluminescence)* while walking on the shore. Not this much dense blues but light blues.
+Finally, we found a place to crash for the night. It was time to sleep and take some rest. I woke up at night, was not able to sleep so went to the beach. We were lucky to stay at a place where the beach was just 2 mins walk. I found something called *[bioluminescence](https://en.wikipedia.org/wiki/Bioluminescence)* while walking on the shore. It was barely visible so not adding photo.
 
 Cold winds and waves gave me an eternal bliss!. As I rested myself on the hammock I saw the dawn approaching the night sky.
 
