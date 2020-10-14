@@ -44,6 +44,8 @@ We had our breakfast at Moon Cafe where we were staying. Food in Andaman is very
 
 After a shower and having tasty lunch we were finally ready to start our journey and explore the Island. We went to the nearby local shop and rented our selves a bicycle to roam around the island. The first place we went to was Radha Nagar beach were we helped a couple take pictures by the beach. They were considering us as locals cause we were dressed like one.
 
+## The Day
+
 We were having a good time and decided to go to a small trek which leads us to Elephant Beach. This place is ideal for relaxing spending leisure time with food and drinks. Besides, if you feel like doing some fun activities this beach offers water sports like diving, snorkelling, swimming, bird-watching, trekking and kayaking. Being famous for its coral reefs, sea walking is also actively partaken and the best part is, anybody with a zest for adventure can indulge in this underwater fun.
 
 <span  class="marginnote">
@@ -53,6 +55,8 @@ Elephant Beach..
 <img  src='/assets/images/travel/andaman/elephant-beach.jpg'>
 
 <img  src='/assets/images/travel/andaman/coconut.jpg'>
+
+## The Night
 
 It was a very peaceful evening that we spent. It was so silent that you can hear each trees quirking sound, birds chirping and waves. We went inside the water and enjoyed the real beach feeling. It was just amazing!
 
