@@ -15,9 +15,7 @@ category: travel
 Welcome to part 2 of the blog series:  Andaman & Nicobar - Life Without Chaos.
 
 # Havelock Island
-<span  class="marginnote">
-Meaning : We all like sunset but to enjoy after
-</span>
+
 > “There's a sunrise and a sunset every single day, and they're absolutely free. Don't miss so many of them.”
 
 ## Dusk till Dawn
