@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Entry 001 - Daily Journal"
+title: "Entry 001 - Ek Nayi Shuruat"
 author: Sahil Chachad
 published: 2020-10-12
 category: journal

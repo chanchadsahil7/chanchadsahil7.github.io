@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Entry 002 - Daily Journal"
+title: "Entry 002 - Sabzi Mandi - Ek Anokhi Kahani"
 author: Sahil Chachad
 published: 2020-10-13
 category: journal
