@@ -88,5 +88,5 @@ This brings us to an end to my most amazing trip! I am always up to travel the A
 
 > Thank you!
 
- ### What is the full form of SCUBA?
- Ans:  Self-contained underwater breathing apparatus
+### What is the full form of SCUBA?
+Ans:  Self-contained underwater breathing apparatus
