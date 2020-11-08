@@ -70,7 +70,7 @@ The Artist..
 
 I felt like I never felt before. I always love to listen to people and their stories. I found so many stories in the Andamans. Sometimes Listen.
 
-> People start to heal. The moment the feel heard.
+> People start to heal. The moment they feel heard.
 
 ## The Dive
 It was a perfect sunny day. It was the day I was going concur my biggest fear of water. It was time to dive into the mighty Andaman sea. I lost all my videos somehow and I am only left with some photos from my dive. But that doesn't make me sad because it is all there in my mind and that is enough for me.
